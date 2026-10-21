@@ -1,0 +1,12 @@
+# Python 3.12 environment used to produce the figures (code/04_figures).
+# For training / loading the networks use requirements-training.txt instead.
+numpy==1.26.4
+scipy==1.14.1
+pandas==2.2.2
+matplotlib==3.9.2
+SciencePlots
+pyvista==0.44.1
+vtk==9.3.1
+pillow
+joblib
+scikit-learn==1.5.1   # validation split of Fig. 10

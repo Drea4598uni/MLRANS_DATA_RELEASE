@@ -1,0 +1,5 @@
+# data from the Zenodo dataset and outputs of the scripts
+data/
+figures_output/
+retrained/
+__pycache__/

@@ -1,0 +1,3 @@
+SRFPimpleFoamReg.C
+
+EXE = $(FOAM_APPBIN)/SRFPimpleFoamReg

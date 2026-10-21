@@ -1,0 +1,57 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article given as preferred citation."
+type: software
+title: "ML-RANS: code for the CFD-ML eddy-viscosity closure of horizontal-axis wind turbine wakes"
+version: "1.0.0"
+date-released: "2026-10-21"
+repository-code: "https://github.com/Drea4598uni/MLRANS_DATA_RELEASE"
+license:
+  - BSD-3-Clause
+  - GPL-3.0-or-later
+authors:
+  - family-names: Carloni
+    given-names: Andrea
+    email: andrea.carloni@uniroma1.it
+    affiliation: "Department of Electrical and Energy Engineering, Sapienza University of Rome"
+  - family-names: Delibra
+    given-names: Giovanni
+    affiliation: "Department of Mechanical and Aerospace Engineering, Sapienza University of Rome"
+  - family-names: De Girolamo
+    given-names: Filippo
+    affiliation: "Division of Fluid Mechanics, KTH Royal Institute of Technology"
+  - family-names: Tieghi
+    given-names: Lorenzo
+    affiliation: "Department of Civil, Environmental and Mechanical Engineering, University of Trento"
+  - family-names: Corsini
+    given-names: Alessandro
+    affiliation: "Department of Mechanical and Aerospace Engineering, Sapienza University of Rome"
+  - family-names: Barnabei
+    given-names: Valerio Francesco
+    affiliation: "Department of Mechanical and Aerospace Engineering, Sapienza University of Rome"
+keywords:
+  - wind turbine wake
+  - URANS
+  - LES
+  - machine learning
+  - turbulence modelling
+  - clustering
+  - neural networks
+  - OpenFOAM
+preferred-citation:
+  type: article
+  title: "A Machine-Learning-Defined Eddy-Viscosity Closure for RANS Simulations of Horizontal-Axis Wind Turbine Wakes"
+  journal: "International Journal of Thermofluids"
+  status: submitted
+  authors:
+    - family-names: Carloni
+      given-names: Andrea
+    - family-names: Delibra
+      given-names: Giovanni
+    - family-names: De Girolamo
+      given-names: Filippo
+    - family-names: Tieghi
+      given-names: Lorenzo
+    - family-names: Corsini
+      given-names: Alessandro
+    - family-names: Barnabei
+      given-names: Valerio Francesco

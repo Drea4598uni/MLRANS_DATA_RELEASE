@@ -1,0 +1,13 @@
+{
+  "n_blocks": 7,
+  "base_units": 192,
+  "width_decay": 0.78,
+  "activation": "gelu",
+  "use_layer_norm": true,
+  "dropout": 0.05,
+  "l2_reg": 0.0001,
+  "learning_rate": 0.00015,
+  "huber_delta": 1.0,
+  "batch_size": 128,
+  "residual": true
+}

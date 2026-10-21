@@ -1,0 +1,4 @@
+pimpleFoamReg.C
+kOmegaSSTML/kOmegaSSTMLRegister.C
+
+EXE = $(FOAM_USER_APPBIN)/pimpleFoamReg
